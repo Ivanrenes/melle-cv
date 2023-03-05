@@ -1,0 +1,49 @@
+{
+    "fullName": "Meledys Esther Jiménez Duran",
+    "jobTitle": "Diseñadora Gráfica Junior",
+    "avatarUrl": "https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg",
+    "summary": "¡Hola! Soy Meledys Jiménez, una apasionada diseñadora gráfica con más de 6 meses de experiencia en el área de producción gráfica y multimedia. Me especializo en el desarrollo de piezas publicitarias, re-diseño de piezas legadas, videos educativos, video-tutoriales y animaciones. Mi conocimiento y manejo de la suite de Adobe, Camtasia y Canva es amplio y sólido, lo que me permite ofrecer soluciones creativas y efectivas a los desafíos que se me presentan. Me apasiona trabajar en equipo y estoy en constante búsqueda de mejorar mis habilidades y conocimientos. ¡Siempre estoy lista para nuevos retos y proyectos emocionantes en el mundo del diseño gráfico!",
+    "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/meledys-jim%C3%A9nez-911579224/",
+        "behance": "https://www.behance.net/meledysjimnez",
+        "email": "meledysjimenez04@gmail.com",
+        "phone": "324 236 2448",
+        "website": "https://meledysjimenez.com/"
+    },
+    "experiences" : [
+        {
+            "jobTitle": "Diseñadora Gráfica Junior",
+            "company":"Universidad Autónoma del Caribe, Barranquilla, Colombia",
+            "startDate":"Julio 2022",
+            "endDate":"Enero 2023",
+            "description": "TEST"
+        }
+    ],
+    "projects": [
+        {
+            "title": "TEST",
+            "tagline": "TEST",
+            "url": "#"
+        }
+    ],
+    "skills" : [
+        {
+            "software": "Adobe Photoshop",
+            "progress": 90
+        }
+    ],
+    "education": [
+        {
+            "school": "SENA - Servicio Nacional de Aprendizaje",
+            "degree": "Diseño Gráfico",
+            "startDate": "2021",
+            "endDate": "2022"
+        }
+    ],
+    "languages" : [
+        {
+            "language": "Español",
+            "level": "Native"
+        }
+    ]
+}
